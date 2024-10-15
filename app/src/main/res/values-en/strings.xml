@@ -2,6 +2,7 @@
 <resources>
     <string name="app_name">Franky App</string>
     <string name="title_activity_git_ui">GitUiActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
     <string name="github_ui_title">enter your github account</string>
     <string name="github_ui_button">Find</string>
     <string name="title_activity_vocabulary">VocabularyActivity</string>
@@ -12,4 +13,7 @@
     <string name="title_activity_welcome">Welcome</string>
     <string name="title_activity_github_chip">ChipItem</string>
     <string name="title_activity_background_color">BackgroundColor</string>
+    <string name="title_activity_scaffold">ScaffoldActivity</string>
+    <string name="title_activity_book">BookActivity</string>
+    <string name="title_activity_counter">CounterActivity</string>
 </resources>
