@@ -13,6 +13,11 @@
         android:theme="@style/Theme.FrankyApp"
         tools:targetApi="31">
         <activity
+            android:name=".CatActivity"
+            android:exported="false"
+            android:label="@string/title_activity_cat"
+            android:theme="@style/Theme.FrankyApp" />
+        <activity
             android:name=".CounterActivity"
             android:exported="true"
             android:label="@string/title_activity_counter"
@@ -38,12 +43,12 @@
             android:name=".ScaffoldActivity"
             android:exported="true"
             android:label="@string/title_activity_scaffold"
-            android:theme="@style/Theme.FrankyApp"></activity>
+            android:theme="@style/Theme.FrankyApp" />
         <activity
             android:name=".BusinessActivity"
             android:exported="true"
             android:label="@string/title_activity_business"
-            android:theme="@style/Theme.FrankyApp"></activity>
+            android:theme="@style/Theme.FrankyApp" />
         <activity
             android:name=".WelcomeActivity"
             android:exported="true"
